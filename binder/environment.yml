@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - appmode
+  - ipywidgets
+  - IPython
+  - ipyleaflet 
+  - gspread
+  - oauth2client
